@@ -1,0 +1,2 @@
+This case illustrates a classic but potent attack: rogue DHCP server injection. The attacker doesn’t need malware—just a faster offer, and your clients obey. Detection depends on vigilant monitoring: sudden DHCP surges, strange gateway settings, or DNS reroutes. The attacker’s goal is control: rerouting traffic, harvesting credentials, or causing chaos. For defenders, the lesson is clear: secure DHCP infrastructure, enforce VLAN segmentation, monitor network anomalies, and educate users. One unauthorized DHCP offer can reset your network’s trust.
+
